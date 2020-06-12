@@ -16,7 +16,6 @@ def calc_dist(lat1, lon1, lat2, lon2):
 
 def get_dist(meteor):
     return meteor.get('distance', math.inf)
-    
 if __name__ == '__main__':
     my_loc = (39.201401, -85.921028)
 
