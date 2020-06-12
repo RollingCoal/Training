@@ -8,5 +8,5 @@ Program ran with Python3
 First, install pipenv. then:
 ```
 pipenv install
-pipenv runn "ython find_meteors.py"
+pipenv runn "ython meteor/find_meteors.py"
 ```
