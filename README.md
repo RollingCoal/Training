@@ -5,4 +5,8 @@ Code used for training and program finds meteor strikes and distance to Columbus
 
 Program ran with Python3
 
-`python3 find_meteors.py`
+First, install pipenv. then:
+```
+pipenv install
+pipenv runn "ython find_meteors.py"
+```
